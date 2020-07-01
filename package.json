@@ -1,0 +1,21 @@
+{
+  "name": "fua.core.namespace",
+  "version": "1.0.0",
+  "description": "core nemaspace",
+  "main": "./src/agent.Server.js",
+  "directories": {
+    "doc": "doc"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "ssh://git@git02.int.nsc.ag:10022/Research/fua/lib/core.namespace.git"
+  },
+  "keywords": [
+    "namespace"
+  ],
+  "author": "jlangkau@nicos-ag.com",
+  "license": "ISC"
+}
