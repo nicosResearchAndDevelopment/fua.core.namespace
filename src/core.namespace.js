@@ -64,6 +64,7 @@ module.exports = ({
 
     return namespace;
 
-}; // module.exports :: core.namespace
+}; // module.exports :: core.namespace TEST
+// Test
 
 
