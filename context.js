@@ -4,6 +4,7 @@
 let context = {
     "dct":       "http://purl.org/dc/terms/",
     "foaf":      "http://xmlns.com/foaf/0.1/",
+    "fua":       "https://www.nicos-rd.com.org/fua#",
     "ids":       "https://w3id.org/idsa/core/",
     "idsa":      "https://www.internationaldataspaces.org/the-association/",
     // REM ids association model
