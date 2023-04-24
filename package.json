@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "ssh://git@git02.int.nsc.ag:10022/Research/fua/lib/core.namespace.git"
+    "url": "ssh://git@git02.int.nsc.ag:10022/research/fua/lib/core.namespace.git"
   },
   "keywords": [
     "namespace"
