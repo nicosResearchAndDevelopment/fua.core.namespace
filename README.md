@@ -1,3 +1,1 @@
-# fua.core.namespace
-
----
+# @fua/core.namespace

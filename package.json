@@ -1,8 +1,8 @@
 {
-  "name": "fua.core.namespace",
-  "version": "1.0.0",
+  "name": "@fua/core.namespace",
+  "version": "0.0.0-dev",
   "description": "core nemaspace",
-  "main": "./src/agent.Server.js",
+  "main": "./src/core.namespace.js",
   "directories": {
     "doc": "doc"
   },
@@ -11,11 +11,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "ssh://git@git02.int.nsc.ag:10022/research/fua/lab/jlangkau/core.namespace.git"
+    "url": "ssh://git@github.com:nicosResearchAndDevelopment/fua.core.namespace.git"
   },
   "keywords": [
     "namespace"
   ],
-  "author": "jlangkau@nicos-ag.com",
-  "license": "ISC"
+  "author": "Jörg Langkau <jlangkau@nicos-ag.com>",
+  "license": "MIT"
 }
